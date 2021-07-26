@@ -1,13 +1,13 @@
 # SimpleSpringExample
 This project is an introductory Spring App, will update when convenient.
 
-#####  Example Requests: 
+### Example Requests: 
 
 **Create**
 localhost:9000/create 
 
     {
-     "legSpan": 12,
+        "legSpan": 12,
         "habitat": "Arboreal",
         "dimorphism": true,
         "temperament": "Docile",
