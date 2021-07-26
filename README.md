@@ -23,7 +23,7 @@ localhost:9000/delete/1
 localhost:9000/update/1 
 
  **ReadAll** 
-localhost:9000/get
+localhost:9000/getAll
 
  **Read** 
 localhost:9000/get/1**
